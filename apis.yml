@@ -6,10 +6,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Deprecation
   - Breaking Changes
-  - OpenAPI
   - Changelogs
+  - Deprecation
+  - OpenAPI
 url: >-
   https://raw.githubusercontent.com/api-evangelist/oasdiff/refs/heads/main/apis.yml
 created: '2026-03-29'
@@ -23,8 +23,8 @@ apis:
       generating changelogs from OpenAPI specifications.
     humanURL: https://www.oasdiff.com/
     tags:
-      - Deprecation
       - Breaking Changes
+      - Deprecation
       - OpenAPI
     properties:
       - type: Documentation
