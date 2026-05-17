@@ -29,12 +29,12 @@ apis:
     properties:
       - type: Documentation
         url: https://www.oasdiff.com/
-      - type: GitHub Organization
+      - type: GitHubOrganization
         url: https://github.com/Tufin/oasdiff
 common:
   - type: Website
     url: https://www.oasdiff.com/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/Tufin/oasdiff
 maintainers:
   - FN: Kin Lane
