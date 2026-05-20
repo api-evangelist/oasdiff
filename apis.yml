@@ -32,6 +32,8 @@ apis:
       - type: GitHubOrganization
         url: https://github.com/Tufin/oasdiff
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/oasdiff
   - type: Website
     url: https://www.oasdiff.com/
   - type: GitHubOrganization
