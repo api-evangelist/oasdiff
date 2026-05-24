@@ -38,6 +38,8 @@ common:
     url: https://www.oasdiff.com/
   - type: GitHubOrganization
     url: https://github.com/Tufin/oasdiff
+  - type: LLMsTxt
+    url: https://www.oasdiff.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
