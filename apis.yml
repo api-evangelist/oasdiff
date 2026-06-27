@@ -38,7 +38,7 @@ common:
     url: https://www.oasdiff.com/
   - type: GitHubOrganization
     url: https://github.com/Tufin/oasdiff
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://www.oasdiff.com/llms.txt
 maintainers:
   - FN: Kin Lane
