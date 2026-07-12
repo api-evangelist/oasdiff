@@ -32,6 +32,8 @@ apis:
       - type: GitHubOrganization
         url: https://github.com/Tufin/oasdiff
 common:
+  - type: DomainSecurity
+    url: security/oasdiff-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/oasdiff
   - type: Website
