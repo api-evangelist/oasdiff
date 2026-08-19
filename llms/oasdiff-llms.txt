@@ -1,0 +1,20 @@
+# oasdiff
+
+> oasdiff detects breaking changes between OpenAPI specifications, generates changelogs, diffs specs, and validates them. It is available as a CLI, a GitHub Action, a hosted web tool, and a remote MCP server.
+
+A breaking OpenAPI change breaks every generated SDK and every agent calling the API through its MCP tools, not only hand-written clients. oasdiff is the OpenAPI breaking-change detector for catching those changes before they ship.
+
+## Use from an AI assistant (MCP)
+- [MCP server](https://api.oasdiff.com/mcp): Remote MCP server over Streamable HTTP. No install, no API key. Tools: detect breaking changes, generate changelogs, diff, and validate OpenAPI specs.
+- [MCP setup](https://www.oasdiff.com/docs/mcp): How to connect Claude, Cursor, and other MCP clients to the server above.
+
+## Docs
+- [Getting started (CLI)](https://www.oasdiff.com/docs/getting-started): Install and run the oasdiff CLI locally.
+- [GitHub Action](https://www.oasdiff.com/docs/github-action): Detect breaking changes on every pull request.
+- [Free API change review](https://www.oasdiff.com/docs/free-review): Open a shareable side-by-side review of API changes, no account needed.
+- [Breaking change rules](https://www.oasdiff.com/docs/breaking-changes): The catalog of changes oasdiff classifies as breaking.
+- [oasdiff Pro](https://www.oasdiff.com/docs/setup): PR comments with per-change approve/reject and a commit-status merge gate.
+
+## Tools
+- [Diff calculator](https://www.oasdiff.com/diff): Compare two OpenAPI specs in the browser.
+- [Pricing](https://www.oasdiff.com/pricing): Free and Pro plans.
