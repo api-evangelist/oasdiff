@@ -4,6 +4,17 @@ description: >-
   Oasdiff is an open-source tool for detecting breaking changes and generating
   changelogs from OpenAPI specifications.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
