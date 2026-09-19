@@ -30,6 +30,11 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/oasdiff.png
 tags:
   - Breaking Changes
+  - Changelog
+  - Deprecation
+  - OpenAPI
+tags_raw:
+  - Breaking Changes
   - Changelogs
   - Deprecation
   - OpenAPI
